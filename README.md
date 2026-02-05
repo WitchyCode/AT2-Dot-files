@@ -12,3 +12,4 @@ Personal linux rice themed after the video game Ar Tonelico 2: Melody of Metafal
 # Software Used
 * Quickshell
 * Hyprland
+* Hellwal (Only for automated colour theming while custom colours are being worked on) 
