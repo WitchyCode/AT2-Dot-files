@@ -10,6 +10,14 @@ Very much a WIP
 * Clean minimalist wallpaper related to AT2, designed by myself
 * Tasteful use of animations and sound effects that mimic the game's look and feel
 
+# Todo
+* Finish making quickshell bar
+* Make various widgets accessible from the bar
+* Create window spawn animation
+* Create wallpaper
+* Add animations and sfx to widgets and bar
+
+
 # Software Used
 * Quickshell
 * Hyprland
